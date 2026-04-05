@@ -19,6 +19,17 @@ ExamSeat eliminates the manual, error-prone process of exam hall management. It 
 
 The system integrates **Google Gemini AI** to allow administrators to describe seating constraints in plain English (e.g. *"CSE and ECE shouldn't share a room"*), which are automatically parsed into structured rules and applied to the allocation engine.
 
+
+## Screenshots
+
+| Login | Dashboard |
+|-------|-----------|
+| ![Login](screenshots/login.png) | ![Dashboard](screenshots/Dashboard.png) |
+
+| New Allocation | AI Constraints |
+|----------------|----------------|
+| ![Allocation](screenshots/allocate.png) | ![AI Constraints](screenshots/ai-constraints.png) |
+
 ---
 
 ## Features
